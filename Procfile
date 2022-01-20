@@ -1,1 +1,1 @@
-bot: python main.py
+web: lein run -m demo.web $PORT
