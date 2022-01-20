@@ -1,5 +1,5 @@
 import telebot
-owner = 666697836
+owner = 189898376
 from telebot import types
 token='1521374248:AAH_KjkeC-9r6NW0tdLXGoo1gOfo8iNxSkA'
 bot=telebot.TeleBot(token)
